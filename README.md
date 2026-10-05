@@ -1,20 +1,126 @@
 <h1 align="center">Hi 👋, I'm Mohd Adnan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **DSA, Web Development**
+<h3 align="center">Software Engineer | Full-Stack Developer | AI & GenAI Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-addu.vercel.app/](https://portfolio-addu.vercel.app/)
-
-- 💬 Ask me about **HTML, CSS, Javascript, React**
-
-- 📫 How to reach me **mohdadnan3508@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adnanengineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adnanengineer/" height="30" width="40" /></a>
+<p align="center">
+  I build scalable web applications, backend systems, and AI-powered solutions using modern technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-nafess&show_icons=true&locale=en&layout=compact" alt="adnan-nafess" /></p>
+### 👨‍💻 About Me
+
+- 🎓 BCA Graduate (2025)
+- 💻 Full-Stack Developer focused on **JavaScript, React.js, Node.js & MongoDB**
+- 🤖 Exploring **Generative AI, LLMs, LangChain & Vector Databases**
+- 🚀 Building real-world projects with **MERN Stack and AI technologies**
+- 🔐 Interested in **REST APIs, Authentication, Backend Architecture & System Design**
+- 🌱 Currently improving my skills in **Backend Development, Databases, AI Engineering & System Design**
+- 💡 I enjoy turning ideas into functional and production-ready applications
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+</p>
+
+#### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+</p>
+
+#### Database & APIs
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+</p>
+
+#### AI / GenAI
+<p>
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" alt="Google"/>
+</p>
+
+- LangChain
+- LangGraph
+- Google Gemini
+- Embeddings
+- Vector Databases
+- Pinecone
+- Retrieval-Augmented Generation (RAG)
+
+#### Tools & Technologies
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🛒 MERN Stack Applications
+Building full-stack applications with React, Node.js, Express, MongoDB, JWT authentication, REST APIs and modern UI technologies.
+
+#### 🤖 AI & RAG Applications
+Working with LLMs, embeddings, LangChain, LangGraph and Pinecone to build AI-powered applications capable of retrieving and understanding information from documents.
+
+#### 🖨️ Printer Service Platforms
+Developing modern service websites and appointment-booking systems with React, Tailwind CSS, Node.js, Express and MongoDB.
+
+#### 📚 Learning & Content Platforms
+Building educational and content-based applications with modern frontend architecture, APIs, authentication and responsive interfaces.
+
+---
+
+### 📌 What I'm Currently Working On
+
+- 🔹 Full-Stack MERN Applications
+- 🔹 Backend & REST API Development
+- 🔹 Database Design & SQL
+- 🔹 Generative AI & LLM Applications
+- 🔹 RAG Systems & Vector Databases
+- 🔹 System Design
+- 🔹 Production-ready Web Applications
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adnanengineer/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohdadnan3508@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
+  </a>
+</p>
+
+📧 **Email:** moh dadnan3508@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan-nafess&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohd Adnan GitHub Stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-nafess&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Mohd Adnan Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Building. Learning. Shipping. 🚀</b>
+</p>
