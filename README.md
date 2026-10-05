@@ -105,7 +105,7 @@ Building educational and content-based applications with modern frontend archite
   </a>
 </p>
 
-📧 **Email:** moh dadnan3508@gmail.com
+📧 **Email:** mohdadnan3508@gmail.com
 
 ---
 
